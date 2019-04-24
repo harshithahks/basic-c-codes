@@ -1,7 +1,7 @@
 #include<iostream>
 int main()
 {
-int r, c, a[100][100], b[100][1¢0], sum[100][10@], i, j;
+int r, c, a[100][100], b[100][1¢0], sum[100][100], i, j;
 cout << "Enter number of rows : ";
 cin >> r;
 cout << "Enter number of column: ";
