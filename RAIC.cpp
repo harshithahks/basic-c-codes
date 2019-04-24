@@ -1,4 +1,4 @@
-//a program to print the basic employee details //
+//a program to print the basic-employee details //
 #include<iostream.h>
 #include<conio.h>
 class empdetails
